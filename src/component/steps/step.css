@@ -1,0 +1,26 @@
+.steps_container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows:  1fr;
+    gap: 30px;
+}
+
+.step_no {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    color: #cfa7a7;
+    font-weight: 900;
+}
+@media screen and (max-width: 991px) {
+    .steps_container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (max-width: 767px) {
+    .steps_container{
+        grid-template-columns:  1fr;
+    }
+}

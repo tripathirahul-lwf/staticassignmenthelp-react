@@ -1,0 +1,41 @@
+.trusted-block{
+    text-align: center;
+    padding: 35px;
+    background-color: #fff;
+    border-radius: 6px;
+    position: relative;
+    border: 2px solid transparent;
+    -webkit-box-shadow: 0px 5px 30px 0px rgba(167, 167, 167, 0.16);
+    -moz-box-shadow: 0px 5px 30px 0px rgba(167, 167, 167, 0.16);
+    box-shadow: 0px 5px 30px 0px rgba(167, 167, 167, 0.16);;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.trusted-block:hover{
+    border-color: red;
+}
+.rating , .review-count{
+    font-size: 18px;
+    color: #766d6d;
+    font-weight: 600;
+    margin: .7rem 0;
+}
+.review-count{
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.rate_star{
+    color: #ffb700;
+}
+.trusted-logo img{
+    margin-top: 10px;
+    height: 60px;
+    width: 90%;
+}
+
+@media screen and (max-width : 991px){
+    .trusted-block{
+        margin: 1rem;
+    }
+} 
+    
