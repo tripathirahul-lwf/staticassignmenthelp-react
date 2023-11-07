@@ -8,11 +8,10 @@ const Content = () => {
             <section className="about-area about-five">
                 <div className="container">
                     <div class="row justify-content-center">
-                        <div class="col-lg-6">
+                        <div class="col-lg-7">
                             <div class="section-title text-center pb-40">
                                 <div class="line m-auto"></div>
-                                <h3 class="title">Clean and simple design, <span> Comes with everything you need to get
-                                    started!</span></h3>
+                                <h3 class="title">We Have Served More Than 45,000 Students With Our Statistics Assignment Help in The Past 4 Years!</h3>
                             </div>
                         </div>
                     </div>
@@ -108,12 +107,12 @@ const Content = () => {
                         <div className="col-lg-6 col-12">
                             <div className="about-five-content">
                                 <h6 className="small-title text-lg">OUR STORY</h6>
-                                <h2 className="main-title fw-bold">Our team comes with the experience and knowledge</h2>
+                                <h2 className="main-title fw-bold">Get to Know Our Statistics Assignment Helper Service before Making an Order</h2>
                                 <div className="about-five-tab">
                                     <nav>
                                         <div className="nav nav-tabs" id="nav-tab" role="tablist">
                                             <button className="nav-link active" id="nav-who-tab" data-bs-toggle="tab" data-bs-target="#nav-who"
-                                                type="button" role="tab" aria-controls="nav-who" aria-selected="true">Who We Are</button>
+                                                type="button" role="tab" aria-controls="nav-who" aria-selected="true">About Us</button>
                                             <button className="nav-link" id="nav-vision-tab" data-bs-toggle="tab" data-bs-target="#nav-vision"
                                                 type="button" role="tab" aria-controls="nav-vision" aria-selected="false">our Vision</button>
                                             <button className="nav-link" id="nav-history-tab" data-bs-toggle="tab" data-bs-target="#nav-history"
@@ -122,31 +121,13 @@ const Content = () => {
                                     </nav>
                                     <div className="tab-content" id="nav-tabContent">
                                         <div className="tab-pane fade show active" id="nav-who" role="tabpanel" aria-labelledby="nav-who-tab">
-                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page
-                                                when
-                                                looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
-                                                distribution of letters, look like readable English.</p>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have in some
-                                                form,
-                                                by injected humour.</p>
+                                            <p>Being the leading statistics assignment helper online, we ensure to offer everything under one roof. For decades, our statistics assignment writing services have worked with professionals from Ph.D. who have assisted thousands of students in achieving success in their educational paths. We are recognized for providing quality statistics assignment help service at notable levels of reliability focusing on timely delivery. Understanding that statistics can be one of the major subjects in the curriculum of a student’s study syllabus, we never fail when it comes well research and perfectly structured tasks as per the requirements raised by the students. </p>
                                         </div>
                                         <div className="tab-pane fade" id="nav-vision" role="tabpanel" aria-labelledby="nav-vision-tab">
-                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page
-                                                when
-                                                looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
-                                                distribution of letters, look like readable English.</p>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have in some
-                                                form,
-                                                by injected humour.</p>
+                                            <p>Our online statistics assignment help with a vision to equip students with a better understanding of statistics so that they are able to find their way around complicated issues that involve data analysis and research. Our objective is to be a source of illumination throughout their study by offering excellent help with statistics assignment and providing them with a chance to score high without performing the hard work. Our vision is to make each and every student struggling with their assignments feel confident while making submissions and become victorious in the fight of dealing with constant challenges with the assignments their whole life.</p>
                                         </div>
                                         <div className="tab-pane fade" id="nav-history" role="tabpanel" aria-labelledby="nav-history-tab">
-                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page
-                                                when
-                                                looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
-                                                distribution of letters, look like readable English.</p>
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have in some
-                                                form,
-                                                by injected humour.</p>
+                                            <p>We provide unparalleled custom statistics assignment help services with a focus on student’s individual requirements. We have the best statistics assignment experts who spend their time trying to better equip the students with statistical knowledge in order to improve their ability to solve any problems using analytical techniques. We aim to turn this nightmare of statistics into a pleasure leading one step further in their educational development. It is our mission to provide students with excellent statistics assignment help in every corner of Australia and never let a student feel alone with their challenging assignment problems.</p>
                                         </div>
                                     </div>
                                 </div>

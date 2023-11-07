@@ -1,4 +1,4 @@
-import React, { useEffect} from 'react'
+import React, { useEffect } from 'react'
 import './head.css'
 import logo from '../images/logo.svg'
 import Embedform from '../embedForm/Embedform';
@@ -42,24 +42,24 @@ const Head = () => {
                                     <div className="collapse navbar-collapse navi" id="navbarNine">
                                         <ul className="navbar-nav">
                                             <li className="nav-item">
-                                                <a className="page-scroll active" href="#hero-area">Home</a>
+                                                <a className="page-scroll active" href="#">Home</a>
                                             </li>
                                             <li className="nav-item">
                                                 <a className="page-scroll" href="#services">Services</a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="page-scroll" href="#portfolio">Review </a>
+                                                <a className="page-scroll" href="#review">Review </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="page-scroll" href="#pricing">Faq</a>
+                                                <a className="page-scroll" href="#faq">FAQs</a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="page-scroll" href="#team">About us</a>
+                                                <a className="page-scroll" href="#footer">About us</a>
                                             </li>
-                                            
+
                                         </ul>
                                     </div>
-                                  
+
                                 </nav>
 
                             </div>
@@ -72,15 +72,15 @@ const Head = () => {
                         <div className="row justify-content-center">
                             <div className="col-lg-8">
                                 <div className="header-hero-content text-center">
-                                    <h3 className="header-sub-title wow fadeInUp" data-wow-duration="1.3s"
-                                        data-wow-delay="0.2s">
-                                        Basic - SaaS Landing Page</h3>
-                                    <h2 className="header-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">
-                                        Kickstart Your SaaS or App Site</h2>
-                                    <p className="text wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.8s">Lorem ipsum
-                                        dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
-                                    <a href="/" className="main-btn wow fadeInUp" data-wow-duration="1.3s"
-                                        data-wow-delay="1.1s">Get
+                                    <h2 className="header-title ">
+                                        No. 1 Statistics Assignment Help: Where Experts Convert Data Into Valuable Insights!
+                                    </h2>
+                                    <p className="text " >Need help with statistics assignment? With our statistics assignment help, you get an
+                                        opportunity to grasp complex data and convert it into actionable insights along with making
+                                        sure that you not only meet your assignment deadlines but also understand what you are
+                                        going to submit!
+                                    </p>
+                                    <a href="/" className="main-btn ">Get
                                         Started</a>
                                 </div>
                             </div>

@@ -9,16 +9,12 @@ const Cta = () => {
                     <div className="row justify-content-center">
                         <div className="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
                             <div className="inner-content">
-                                <h2>We love to make perfect <br />solutions for your business</h2>
+                                <h2>Get Ph.D. Statistics Assignment Experts at Your Assistance Today!</h2>
                                 <p>
-                                    Why I say old chap that is, spiffing off his nut cor blimey
-                                    guvnords geeza<br />
-                                    bloke knees up bobby, sloshed arse William cack Richard. Bloke
-                                    fanny around chesed of bum bag old lost the pilot say there
-                                    spiffing off his nut.
+                                    With Ph.D. statistics assignment writers available at your service anytime you need assistance, we help you conquer every challenging roadblock you are facing while working on your assignments. With our subject matter expertise and well-qualified academic writers, we ensure to provide you with a bouquet of happiness with stress-free submissions, HD grades, lots of free time and much more.
                                 </p>
                                 <div className="light-rounded-buttons">
-                                <a href="/" className="main-btn wow fadeInUp" data-wow-duration="1.3s"
+                                    <a href="/" className="main-btn wow fadeInUp" data-wow-duration="1.3s"
                                         data-wow-delay="1.1s">Get
                                         Started</a>
                                 </div>
