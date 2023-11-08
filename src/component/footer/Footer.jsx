@@ -22,10 +22,10 @@ const Footer = () => {
                                         nonumy
                                         eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
                                     <ul className="social">
-                                        <li><a href="/"><i className="lni-facebook-filled"></i></a></li>
-                                        <li><a href="/"><i className="lni-twitter-filled"></i></a></li>
-                                        <li><a href="/"><i className="lni-instagram-filled"></i></a></li>
-                                        <li><a href="/"><i className="lni-linkedin-original"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-facebook"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-twitter"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-instagram"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-linkedin"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
