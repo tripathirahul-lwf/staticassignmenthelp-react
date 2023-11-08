@@ -7,7 +7,7 @@ import trust from '../images/trust.png'
 const Trusted = () => {
     return (
         <>
-            <section className="truedby section features">
+            <section className="truedby section features pb-120">
                 <div className="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-6">

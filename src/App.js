@@ -9,6 +9,7 @@ import Footer from './component/footer/Footer'
 import Cta from './component/cta/Cta'
 import Content from './component/content/Content'
 import Trusted from './component/trusted/Trusted'
+import Subjects from './component/subjects/Subjects'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Trusted />
       <Step />
       <Services />
+      <Subjects />
       <Content />
       <Cta />
       <Review />

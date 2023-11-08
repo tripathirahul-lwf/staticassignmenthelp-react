@@ -30,7 +30,7 @@ const Head = () => {
                         <div className="row">
                             <div className="col-lg-12">
                                 <nav className="navbar navbar-expand-lg">
-                                    <a class="navbar-brand" href="index.html">
+                                    <a class="navbar-brand" href="#">
                                         <img src={logo} alt="Logo" />
                                     </a>
                                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNine"
@@ -73,16 +73,13 @@ const Head = () => {
                             <div className="col-lg-8">
                                 <div className="header-hero-content text-center">
                                     <h2 className="header-title ">
-                                        No. 1 Statistics Assignment Help: Where Experts Convert Data Into Valuable Insights!
+                                        Best Statistics Assignment Help Australia: Hire Online Statistics Assignment Experts!
                                     </h2>
-                                    <p className="text " >Need help with statistics assignment? With our statistics assignment help, you get an
-                                        opportunity to grasp complex data and convert it into actionable insights along with making
-                                        sure that you not only meet your assignment deadlines but also understand what you are
-                                        going to submit!
+                                    <p className="text " >Need help with statistics assignment? With our statistics assignment help services, you get an opportunity to grasp complex data and convert it into actionable insights along with making sure that you not only meet your assignment deadlines but also understand what you are going to submit!
                                     </p>
                                     <a href="/" className="main-btn ">Get
                                         Started</a>
-                                </div>
+                                </div> 
                             </div>
                         </div>
                         <div className="row">

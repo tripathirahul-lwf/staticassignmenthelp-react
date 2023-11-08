@@ -43,7 +43,9 @@
 .navbar-brand {
     padding: 0;
 }
-
+.navbar-brand img{
+    height: 60px;
+}
 .navbar-toggler {
     padding: 0;
     outline: none;

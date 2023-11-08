@@ -5,7 +5,7 @@ import './step.css'
 const Step = () => {
     return (
         <>
-            <section id="features" className="services-area pt-120 pb-120">
+            <section id="features" className="services-area bg-d pt-120 pb-120">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-lg-6">
